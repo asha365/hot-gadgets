@@ -1,0 +1,43 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+
+.cat{
+    
+    border-bottom: 8px solid orange;
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+    border-radius: 3px;
+    
+}
+.lap{
+    color: orange;
+}
+
+.lap a{
+    color: orange;
+    border: none;
+    text-decoration: none;
+}
+
+.last-image img{
+    vertical-align: middle;
+    border-style: none;
+    margin: 0px auto;
+}
+
+.pale-order img{
+    width: 90%;
+    vertical-align: middle;
+    border-style: none;
+}
